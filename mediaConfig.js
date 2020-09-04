@@ -1,7 +1,7 @@
 module.exports = {
 
     // Include Gatsby images for lazy loading and image optimizations (default: true)
-    gatsbyImages: true,
+    gatsbyImages: false,
 
     // Loading methods: lazy, eager or auto (default: lazy)
     gatsbyImageLoading: `lazy`,
