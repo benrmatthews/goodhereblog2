@@ -1,6 +1,6 @@
 module.exports = {
     // Do not include a trailing slash!
-    siteUrl: `https://demo.jamify.org`,
+    siteUrl: `https://zen-thompson-ae1e01.netlify.app`,
 
     // Enable infinite scroll (default: true)
     infiniteScroll: true,
