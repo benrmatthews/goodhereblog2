@@ -1,9 +1,0 @@
-{
-  "development": {
-    "apiUrl": "http://goodhereblog.herokuapp.com",
-    "contentApiKey": "6abcd8bbd2d44f6a065e342ac9"
-  "production": {
-    "apiUrl": "http://goodhereblog.herokuapp.com/",
-    "contentApiKey": "6abcd8bbd2d44f6a065e342ac9"
-  }
-}
