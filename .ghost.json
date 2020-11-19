@@ -1,0 +1,10 @@
+{
+  "development": {
+    "apiUrl": "https://flourishto.netlify.app",
+    "contentApiKey": "1335c6223e61b17d3f8e0bb2f9"
+  },
+  "production": {
+    "apiUrl": "https://flourishto.netlify.app",
+    "contentApiKey": "1335c6223e61b17d3f8e0bb2f9"
+  }
+}
