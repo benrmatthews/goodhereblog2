@@ -3,17 +3,17 @@ module.exports = {
     siteUrl: `https://flourish.to`,
 
     // Enable infinite scroll (default: true)
-    infiniteScroll: true,
+    infiniteScroll: false,
 
     // Initial number fetched, scrolling lazy loads posts one by one
     // If infinite scroll is disabled: maximum number of post shown per page
-    postsPerPage: 9,
+    postsPerPage: 30,
 
     // This allows an alternative site title for meta data for pages.
     siteTitleMeta: `Flourish`,
 
     // This allows an site description for meta data for pages.
-    siteDescriptionMeta: `How to flourish in life and love.`,
+    siteDescriptionMeta: `How to flourish in life and love`,
 
     // Used for App and Offline manifest e.g. Mobile Home Screen
     shortTitle: `Flourish`,
