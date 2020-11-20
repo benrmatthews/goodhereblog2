@@ -13,7 +13,7 @@ module.exports = {
     siteTitleMeta: `Flourish`,
 
     // This allows an site description for meta data for pages.
-    siteDescriptionMeta: `How to flourish in llove and life.`,
+    siteDescriptionMeta: `How to flourish in life and love.`,
 
     // Used for App and Offline manifest e.g. Mobile Home Screen
     shortTitle: `Flourish`,
