@@ -197,7 +197,7 @@ For best SEO results it is strongly recommended to disable the default Ghost Han
 
 ## 💣 Reporting issues
 
-Please report all bugs and issues at [gatsby-theme-try-ghost/issues](https://github.com/styxlab/gatsby-theme-try-ghost/issues) as all development is happening there.
+Please report all bugs and issues at [gatsby-theme-try-ghost/issues](x) as all development is happening there.
 
 &nbsp;
 
